@@ -17,7 +17,7 @@
                BlueprintIdentifier = "3B8CAC3956E59F928387D0C6310E3B37"
                BuildableName = "gRPCCertificates-Cpp.bundle"
                BlueprintName = "gRPC-C++-gRPCCertificates-Cpp"
-               ReferencedContainer = "container:Pods.xcodeproj">
+               ReferencedContainer = "container:Pods/Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -29,8 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -48,11 +46,9 @@
             BlueprintIdentifier = "3B8CAC3956E59F928387D0C6310E3B37"
             BuildableName = "gRPCCertificates-Cpp.bundle"
             BlueprintName = "gRPC-C++-gRPCCertificates-Cpp"
-            ReferencedContainer = "container:Pods.xcodeproj">
+            ReferencedContainer = "container:Pods/Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
